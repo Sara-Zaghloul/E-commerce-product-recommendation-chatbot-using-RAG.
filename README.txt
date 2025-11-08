@@ -1,7 +1,7 @@
 The chatbot assists users in finding electronics products, such as laptops, based on preferences like rating. We utilize the "Amazon US Customer Reviews Dataset" from Kaggle, specifically the Electronics subset, to provide real-world product data and reviews. 
 Built with Python, LangChain, FAISS, and Hugging Face transformers, this project demonstrates how AI can enhance online shopping experiences by delivering personalized, context-aware recommendations.
 
-## 🧠 Project Workflow
+## Project Workflow
 
 1. **Dataset**
    - Automatically downloads the *Amazon US Customer Reviews* dataset from Kaggle.
