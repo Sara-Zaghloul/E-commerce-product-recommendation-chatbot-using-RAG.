@@ -1,0 +1,2 @@
+This notebook implements an E-commerce Product Recommendation Chatbot using Retrieval-Augmented Generation (RAG).
+The chatbot assists users in finding electronics products, such as laptops, based on preferences like rating. We utilize the "Amazon US Customer Reviews Dataset" from Kaggle, specifically the Electronics subset, to provide real-world product data and reviews. Built with Python, LangChain, FAISS, and Hugging Face transformers, this project demonstrates how AI can enhance online shopping experiences by delivering personalized, context-aware recommendations.
